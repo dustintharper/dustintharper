@@ -1,4 +1,6 @@
-## Welcome! I'm a paleoclimatologist and paleoceanographer studying the carbon cycle and warm intervals in Earth's geologic past.
+## Welcome! 
+
+## I'm a paleoclimatologist and paleoceanographer studying the carbon cycle and warm intervals in Earth's geologic past.
 
 I'm a postdoctoral researcher at the University of Utah. I study paleoclimatology and paleoceanography, focusing on the coupling of climate and the carbon cycle over long and short timescales in the geologic past. I use trace element and stable isotope geochemical proxies in marine (e.g., fossil foraminifera) and terrestrial (e.g., paleosol carbonates) sediments, to determine temperature, carbon dioxide in the atmosphere, and seawater chemistry (e.g., ocean acidification, shifts in sea surface salinity) in the past.
 
@@ -26,6 +28,9 @@ I'm a member of the SPATIAL (Spatio-Temporal Isotopes Analytics Lab) group at th
 -Can we develop a community-accessible Bayesian proxy system model that incorporates commonly applied measurements in fossil planktic foraminifera (stable boron, carbon and oxygen isotopes, B/Ca, Mg/Ca) to interpret the past environment, including atmospheric CO2?
 
 -What other proxy systems can we forward model using Markhov Chain Monte Carlo (MCMC) approaches? 
+
+## Thanks for visiting! 
+Dustin T. Harper 
 
 <!--
 **dustintharper/dustintharper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
